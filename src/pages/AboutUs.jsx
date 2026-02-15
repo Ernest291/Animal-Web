@@ -39,10 +39,16 @@ function AboutUs() {
                 <p>
                     - Aurora Nicole Estante: A passionate advocate for animal welfare, Aurora has been involved in various animal rescue organizations and has a deep love for all creatures. She is dedicated to raising awareness about animal rights and promoting responsible pet ownership.
                     <br />
+                               
                     - Angel Enojo: With a background in veterinary science, Angel brings a wealth of knowledge about animal health and welfare to the team. She is committed to educating the public about the importance of proper animal care and advocating for stronger animal protection laws.
                     <br />
+                           
                     - Denise Kate Dana: A creative and compassionate individual, Denise has a strong passion for animal advocacy. She has been actively involved in local animal shelters and rescue groups, working tirelessly to improve the lives of animals in need. Denise is dedicated to spreading awareness about animal welfare issues and encouraging others to get involved in the cause.
                     <br />
+                             
+                    - Marian Mae cabale: A compassionate animal lover, Marian has been volunteering at animal shelters for years and has a deep commitment to animal welfare. She is passionate about educating the public on the importance of adopting pets from shelters and promoting responsible pet ownership. Marian is also involved in various animal rescue efforts and is always looking for ways to make a positive impact on the lives of animals in need.
+                    <br />
+                        
                     -Ernest Jude Tiu: A dedicated animal lover, Ernest has been volunteering at animal shelters for years and has a deep commitment to animal welfare. He is passionate about educating the public on the importance of adopting pets from shelters and promoting responsible pet ownership. Ernest is also involved in various animal rescue efforts and is always looking for ways to make a positive impact on the lives of animals in need.
                 </p>
             </div>
