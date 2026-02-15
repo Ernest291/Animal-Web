@@ -31,7 +31,7 @@ function AboutUs() {
                 <p>We are a team of students passionate about animal advocacy and welfare.
                     We created this website to provide a platform for people to learn about animal welfare and to connect with local animal shelters and rescue organizations.
                     Our mission is to promote animal welfare and to help animals in need find loving homes. We believe that every animal deserves to be treated with kindness and respect, and we are committed to making a positive impact in the lives of animals in our community.
-                    Please consider <a href="/donate">donating</a> to our cause or volunteering with us to help make a difference in the lives of animals in need. Together, we can create a better world for animals and promote a more compassionate society.
+                    Please consider <a href="./donate">donating</a> to our cause or volunteering with us to help make a difference in the lives of animals in need. Together, we can create a better world for animals and promote a more compassionate society.
                 </p>
             </div>
             <div style={contentStyle}>
